@@ -9,8 +9,6 @@ import com.google.gson.GsonBuilder;
 public class First {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 			
 		// This can be done with only Gson object , but Gson builder will give pretty print feature
 		
